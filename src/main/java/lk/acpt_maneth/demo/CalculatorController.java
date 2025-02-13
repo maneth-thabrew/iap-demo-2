@@ -54,6 +54,10 @@ public class CalculatorController {
 
     }
 
+    public void getAnswersSample(){
+
+    }
+
 
 
 }
