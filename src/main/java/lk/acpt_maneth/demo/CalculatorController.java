@@ -70,6 +70,10 @@ public class CalculatorController {
 
     }
 
+    public void getAnswersSampl4(){
+
+    }
+
 
 
 }
