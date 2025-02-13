@@ -54,26 +54,6 @@ public class CalculatorController {
 
     }
 
-    public void getAnswersSample(){
-
-    }
-
-    public void getAnswersSample1(){
-
-    }
-
-    public void getAnswersSample2(){
-
-    }
-
-    public void getAnswersSample3(){
-
-    }
-
-    public void getAnswersSampl4(){
-
-    }
-
 
 
 }
