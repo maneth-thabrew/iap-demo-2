@@ -50,6 +50,10 @@ public class CalculatorController {
         resultLbl.setText(String.valueOf(result));
     }
 
+    public void getAnswers(){
+
+    }
+
 
 
 }
